@@ -8,7 +8,7 @@ Official yolov7-pose implement: https://github.com/WongKinYiu/yolov7/tree/pose
 
 Deploy Yolov7-pose with TensorRT for Linux: https://github.com/nanmi/yolov7-pose
 
-# Build project form references
+# Build projects
 ## Installation
 
   install torch and related package
@@ -26,7 +26,13 @@ Deploy Yolov7-pose with TensorRT for Linux: https://github.com/nanmi/yolov7-pose
 
 ## Build projects on Windows
 
-Based on Deploy [Yolov7-pose with TensorRT for Linux](https://github.com/nanmi/yolov7-pose), we change congifurations to build on Windows
+TensorRT-8.2.4.2
+
+Opencv-4.4.0
+
+Cuda Toolkit 11.1, cudnn-11.1
+
+Based on Deploy [Yolov7-pose with TensorRT for Linux](https://github.com/nanmi/yolov7-pose), we change configurations to build on Windows
 
 ### YoloLayer_TRT_v7.0: generate plugin library to build tensorRT engine
 
