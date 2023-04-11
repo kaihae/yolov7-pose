@@ -1,4 +1,4 @@
-# Deploy yolov-pose TensorRT for Windows
+# Deploy yolov7-pose TensorRT for Windows
 
 ## References
 
